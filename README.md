@@ -2,9 +2,14 @@
 Alexa Skill that invokes a Lambda function to process the identified request and returns a response to be spoken back to the user.
 <br>
 <h2> MOTIVE/OBJECTIVE </h2>
-How speech recognition works,
-What packages are available on PyPI; and
-How to install and use the SpeechRecognition package—a full-featured and easy-to-use Python speech recognition library.
+
+How speech recognition works?
+
+What packages are available on PyPi?
+
+How to install and use the SpeechRecognition package?
+
+A full-featured and easy-to-use Python speech recognition library.
 The Alexa Skills Kit SDK for Python simplifies the development of the back-end cloud service for your Alexa skill. A part of the Alexa Skills Kit, the SDK reduces the amount of code you need to write to process Alexa requests and responses and to handle other common skill tasks.
 A handful of packages for speech recognition exist on PyPI. 
 <h5> A few of them include: </h5>
@@ -21,7 +26,6 @@ A handful of packages for speech recognition exist on PyPI.
 
 6)watson-developer-cloud
 
-7)wit
 
 ![maxresdefault (2)](https://user-images.githubusercontent.com/59393136/127264700-3f8a41de-52da-45d7-b279-6c9dd2d13bf0.jpg)
 <h1> SPEECH RECOGNITION </h1>
