@@ -50,7 +50,7 @@ Make sure you install these packages before moving forward to other python libra
 - Do few general chatting like: 'How are you', 'reason for you', etc.
 
 ## Implementation:
-Install all the required packages which are mentioned above. After successful installation copy the code from jarvis.py folder to your python editor.
+Install all the required packages which are mentioned above. After successful installation copy the code from main.py folder to your python editor.
 Enjoy all the features of Alexa .
 
 ![Amazon Alexa (1)](https://user-images.githubusercontent.com/59393136/134299438-f5303d9e-7d9c-4626-87f5-be87c2bad551.jpg)
